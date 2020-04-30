@@ -1,3 +1,47 @@
 {
-  "posts": []
+  "posts": [],
+  "get": {
+	[
+		{
+			"StageName":"Fonte",
+			"ValueScore": 3.7,
+		},
+		{
+			"StageName":"WLAN",
+			"ValueScore": 1.4,
+		},
+		{
+			"StageName":"Bateria",
+			"ValueScore": 0.0,
+		},
+		{
+			"StageName":"HDD",
+			"ValueScore": 6.4750000000000005,
+		},
+		{
+			"StageName":"Encapsulamento de Memória RAM",
+			"ValueScore": 6.75,
+		},
+		{
+			"StageName":"MontagemModulo de Memória RAM",
+			"ValueScore": 0.9,
+		},
+		{
+			"StageName":"CI SSD",
+			"ValueScore": 0.0,
+		},
+		{
+			"StageName":"Montagem SSD",
+			"ValueScore": 0.0,
+		},
+		{
+			"StageName":"Placa Principal",
+			"ValueScore": 10.505,
+		},
+		{
+			"StageName":"total",
+			"ValueScore": 29.729999999999997,
+		}
+	]
+}
 }
